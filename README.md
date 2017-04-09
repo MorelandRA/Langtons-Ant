@@ -4,7 +4,7 @@ This program will ONLY work in windows, due to the use of system("CLS")  and the
 Additionally, the program will NOT work in Eclipse, due to the use of system("CLS").
 
 At a white tile, the ant turns right, changes the tile to black, and moves forward.
-At a black tile, the and turns left, changes the tile to white, and moves forward.
+At a black tile, the ant turns left, changes the tile to white, and moves forward.
 
 A highway refers to a pattern that repeats infinitely. In my program, the ant will stop if it attempts to go off of the screen.
 The variables SCREEN_WIDTH and SCREEN_HEIGHT must be set to at least 62 and 48 respectively in order for the highway to appear.
